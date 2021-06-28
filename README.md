@@ -1,2 +1,2 @@
-# .py
-ali
+#Hello
+print('Hello')
